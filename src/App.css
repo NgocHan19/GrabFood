@@ -61,12 +61,12 @@ css-reset
   position: absolute;
 }
 .Footer{
-  width: 100%;
-  height: 300px;
+  position:relative;
+   width: 100%; 
+  height: 200px;
   background-color: rgb(1,176,78);
   text-align: center;
 }
-.footer_img{
+ .Footer_img{
   width: 100%;
-  height: 100%;
-}
+} 
